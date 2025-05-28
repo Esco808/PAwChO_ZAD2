@@ -2,12 +2,12 @@
 
 ### Obrazy tagowane są za pomocą:
 
-- **semantyczne wersjonowanie** na podstawie `https://semver.org/`:
+- **semantyczne wersjonowanie** na podstawie https://semver.org:
 
->Given a version number MAJOR.MINOR.PATCH, increment the:
->MAJOR version when you make incompatible API changes
->MINOR version when you add functionality in a backward compatible manner
->PATCH version when you make backward compatible bug fixes
+>Given a version number MAJOR.MINOR.PATCH, increment the:  
+MAJOR version when you make incompatible API changes  
+MINOR version when you add functionality in a backward compatible manner  
+PATCH version when you make backward compatible bug fixes  
 
 Taka praktyka zwiększa czytelność projektu i ułatwia zrozumienie skali zmian pomiędzy wersjami.
 
@@ -16,9 +16,9 @@ Taka praktyka zwiększa czytelność projektu i ułatwia zrozumienie skali zmian
 ### Cache w DockerHub:
 
 Dane cache są przechowywane w oddzielnym repozytorium DockerHub:
-- `https://hub.docker.com/r/ostrowski2000/zad2`
+https://hub.docker.com/r/ostrowski2000/zad2
 
-Zostały użyte oddzielne tagi dla plików cache obu architektur, w formie "cache-<architektura>"
+Zostały użyte oddzielne tagi dla plików cache obu architektur, w formie "cache-{architektura}"
 
 ## Skanowanie CVE
 
