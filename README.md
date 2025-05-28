@@ -18,7 +18,7 @@ Taka praktyka zwiększa czytelność projektu i ułatwia zrozumienie skali zmian
 Dane cache są przechowywane w oddzielnym repozytorium DockerHub:
 https://hub.docker.com/r/ostrowski2000/zad2
 
-Zostały użyte oddzielne tagi dla plików cache obu architektur, w formie "cache-{architektura}"
+Zostały użyte oddzielne tagi dla plików cache obu architektur, w formie `cache-<architektura>`
 
 ## Skanowanie CVE
 
